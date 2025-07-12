@@ -20,13 +20,13 @@
 
 4. phpMyAdmin ya da terminal üzerinden bir MySQL veritabanı oluştur:
 	* Veritabanı adı: `opencart_db` Kullanıcı: `root` Şifre: (boş bırak – yerel geliştirme için)
-4. Make sure you have installed a MySQL Database which has a user assigned to it
+5. Make sure you have installed a MySQL Database which has a user assigned to it
 	* do not use your ```root``` username and ```root``` password
-4. Tarayıcıda şu adrese git: http://localhost/opencart/
+6. Tarayıcıda şu adrese git: http://localhost/opencart/
 	* Kurulum ekranı açılır, adımları takip et:
-4. Lisans sözleşmesini kabul et → Devam
-5. You should be taken to the installer page. Follow the on screen instructions.
-6. `install/` klasörünü sil
+7. Lisans sözleşmesini kabul et → Devam
+8. You should be taken to the installer page. Follow the on screen instructions.
+9. `install/` klasörünü sil
 	* `config.php` ve `admin/config.php` dosyalarını aç, klasör yollarını ve URL’leri kontrol et/düzelt:
 
 	```php
@@ -38,7 +38,7 @@
 	// ...
 	```
 
-7. Make sure the following extensions are enabled in php.ini:
+10. Make sure the following extensions are enabled in php.ini:
 
 extension=curl;
 extension=gd;
