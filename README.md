@@ -2,7 +2,7 @@
 
 ## OpenCart’ı İndir
 
-* Resmi site: [https://www.opencart.com](https://github.com/opencart/opencart)
+* Resmi site: [https://github.com/opencart/opencart](https://github.com/opencart/opencart/releases/tag/3.0.3.8)
 * “Download” bölümünden en son sürümü indir (.zip dosyası)
 * Zip dosyasını aç, içindeki `upload` klasörünü çıkar
 
